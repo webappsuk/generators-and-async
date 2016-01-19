@@ -1,5 +1,5 @@
 ## generators-and-async (completed branch)
-> This is the completed branch, for the incomplete version go [here](//github.com/jon-hall/generators-and-async/tree/master).
+> This is the completed branch, for the incomplete version go [here](//github.com/webappsuk/generators-and-async/tree/master).
 
 An introduction to how generators can be leveraged to flatten asynchronous code into a more manageable structure.
 

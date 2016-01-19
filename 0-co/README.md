@@ -1,5 +1,5 @@
 ## 0 - co (completed branch)
-> This is the completed branch, for the incomplete version go [here](//github.com/jon-hall/generators-and-async/tree/master/0-co).
+> This is the completed branch, for the incomplete version go [here](//github.com/webappsuk/generators-and-async/tree/master/0-co).
 
 This project introduces how generators can help us write flatter code.  It covers how to convert Promise-based code to flatter, synchronous-looking, generator-based code.  It doesn't actually explore *how* this works, that is left for the other example to explore.
 
@@ -57,7 +57,7 @@ We can also do stuff like overwrite `result` on the same line as passing it to `
 
 #### Converting existing Promise-based code
 
-The `index.js` file in this repo shows a *promisified* version of the renamer application from the [node-intro](//github.com/jon-hall/node-intro), the original version is also included for reference (`index_orig.js`).
+The `index.js` file in this repo shows a *promisified* version of the renamer application from the [node-intro](//github.com/webappsuk/node-intro), the original version is also included for reference (`index_orig.js`).
 
 Use the example code above to convert the `index.js` file to use `co` and `yield` on each of the Promises.
 
